@@ -22,8 +22,6 @@ int main(void)
             if(eng_cur > eng_max){
                 eng_max = eng_cur;
             }
-        }else{
-            eng_cur = 0;
         }
         
         
