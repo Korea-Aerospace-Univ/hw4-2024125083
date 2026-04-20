@@ -37,8 +37,8 @@ int main(void)
         
     }
     
-    printf("%d\n",eng_cur);
-    printf("%d",num_cur);
+    printf("%d\n",eng_max);
+    printf("%d",num_max);
     
     
 
