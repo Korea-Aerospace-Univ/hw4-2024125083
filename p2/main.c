@@ -26,7 +26,7 @@ int main(void)
         }
         
         
-        if(c>='0' && c<='9'){
+        else if(c>='0' && c<='9'){
             num_cur++;
             eng_cur = 0;
             if(num_cur > num_max){
