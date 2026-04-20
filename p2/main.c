@@ -5,13 +5,14 @@ int main(void)
     int a;
     
     scanf("%d",&a);
+    getchar();
     
     int eng_cur = 0, eng_max = 0;
     int num_cur = 0, num_max = 0;
     
     
     for(int i = 0; i < a; i++){
-        getchar();
+
         char c;
         scanf("%c",&c);
     
