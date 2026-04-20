@@ -38,7 +38,7 @@ int main(void)
     }
     
     printf("%d\n",eng_cur);
-    printf("%d\n",num_cur);
+    printf("%d",num_cur);
     
     
 
